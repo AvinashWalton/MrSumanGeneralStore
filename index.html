@@ -925,7 +925,7 @@
         <div class="section-label">हमें ढूंढें</div>
         <h2 class="section-title">हमारे<br><em>यहाँ आएं</em></h2>
         <p class="section-body" style="margin-bottom:2rem">
-          स्टेट हाईवे 8 (SH-8) पर घोस्तावां के पास, कादिरगंज, नवादा — हम हमेशा यहाँ हैं।
+          स्टेट हाईवे 8 (SH-8), कादिरगंज पूल के पार, रोह मोड़ के पास, कादिरगंज, नवादा — हम हमेशा यहाँ हैं।
         </p>
 
         <div class="location-details">
@@ -1019,7 +1019,7 @@
     <section class="trust" aria-label="ग्राहक का अनुभव">
       <blockquote class="trust-quote reveal">
         कादिरगंज का सबसे भरोसेमंद दुकान — यहाँ सब मिलता है,
-        और कोई wait नहीं करना पड़ता। सुमन भाई हमेशा ready रहते हैं!
+        और कोई wait नहीं करना पड़ता।
       </blockquote>
       <div class="trust-stars reveal" aria-label="5 सितारे">★★★★★</div>
       <div class="trust-source reveal">— Happy Customer, कादिरगंज</div>
@@ -1140,16 +1140,7 @@
     }
     window.addEventListener('scroll', updateActiveNav, { passive: true });
 
-    /* ── Embed actual QR image ── */
-    (function embedQR() {
-      const qrImg = document.querySelector('.qr-card img');
-      if (!qrImg) return;
-      // Use the actual PhonePe QR code uploaded by user
-      const b64 = '';
-      if (b64 !== 'PHONEPE_QR_PLACEHOLDER') {
-        qrImg.src = 'data:image/jpeg;base64,' + b64;
-      }
-    })();
+    
   </script>
 
 </body>
