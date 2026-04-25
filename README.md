@@ -1,4 +1,4 @@
-# मिस्टर सुमन जनरल स्टोर | Mr. Suman General Store — Kadirganj, Nawada, Bihar
+# मिस्टर सुमन जनरल स्टोर | Mr Suman General Store — Kadirganj, Nawada, Bihar
 
 **कादिरगंज, नवादा, बिहार का सबसे भरोसेमंद जनरल स्टोर।**
 
@@ -27,7 +27,7 @@
 
 ## 📍 Location
 
-**Mr. Suman General Store** is on **State Highway 8 (SH-8)** near Ghostawon,  
+**Mr Suman General Store** is on **State Highway 8 (SH-8)** near Ghostawon,  
 **Kadirganj, Nawada, Bihar — PIN 805104**
 
 Nearby: Nawada town ~6 km · Kakolat Falls ~24 km
@@ -88,7 +88,7 @@ Cash · GPay · PhonePe (Terminal: 1-Q20665296) · Paytm · UPI QR
 
 ## 📝 GitHub Repository Description
 
-> Official website of **Mr. Suman General Store** — a trusted neighborhood shop in Kadirganj, Nawada, Bihar. Offering photocopy, PDF printing, cold drinks, paan, snacks, cigarettes, mineral water & daily essentials. Built with pure HTML, CSS & JavaScript — no frameworks, advanced SEO, fully responsive.
+> Official website of **Mr Suman General Store** — a trusted neighborhood shop in Kadirganj, Nawada, Bihar. Offering photocopy, PDF printing, cold drinks, paan, snacks, cigarettes, mineral water & daily essentials. Built with pure HTML, CSS & JavaScript — no frameworks, advanced SEO, fully responsive.
 
 ---
 
@@ -121,7 +121,7 @@ github-pages
 
 **© 2018 - 2026 Mr Suman General Store — Qadir Ganj, Nawada, Bihar 805104*
 
-This project and its contents — including HTML, CSS, JavaScript, design, branding, and business information — are the exclusive property of **Mr. Suman General Store**, Qadir Ganj, Nawada, Bihar 805104, India.
+This project and its contents — including HTML, CSS, JavaScript, design, branding, and business information — are the exclusive property of **Mr Suman General Store**, Qadir Ganj, Nawada, Bihar 805104, India.
 
 **Permissions:**
 - ✅ Personal viewing and sharing of the website URL is permitted.
